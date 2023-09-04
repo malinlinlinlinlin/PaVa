@@ -34,7 +34,7 @@ MATLAB r2019a
 ### Run mian function
 - Pava: the input of pava is the original data $D$ and parameter $k$
 - pava_DistM: the input of pava is the adjacent matrix $DistM$ and parameter $k$
-- the rest of *.m are subfunction
+- the rest of *.m are subfunctions
 
 
 
