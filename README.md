@@ -1,6 +1,6 @@
 # PaVa: A novel Path-based Valley-seeking clustering algorithm
 
-Submited to Information Sciencea. Paper created by Lin Ma, Conan Liu, Tiefeng Ma, Shuangzhe Liu from School of Statistics, Southwestern University of Finance and Economics, China; UNSW Business School, University of New South Wales, Australia; Faculty of Science and Technology, University of Canberra, Australia. Our preprint paper is avaliable on (https://arxiv.org/abs/2306.07503)
+Submited to Information Sciences. Paper created by Lin Ma, Conan Liu, Tiefeng Ma, Shuangzhe Liu from School of Statistics, Southwestern University of Finance and Economics, China; UNSW Business School, University of New South Wales, Australia; Faculty of Science and Technology, University of Canberra, Australia. Our preprint paper is avaliable on (https://arxiv.org/abs/2306.07503)
 
 ## Introduction
   Clustering methods are being applied to a wider range of scenarios involving more complex datasets, where the shapes of clusters tend to be arbitrary. In this paper, we propose a novel Path-based Valley-seeking clustering algorithm for arbitrarily shaped clusters. This work aims to seek the valleys among clusters and then individually extract clusters. 
